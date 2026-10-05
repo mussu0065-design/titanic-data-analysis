@@ -51,6 +51,9 @@ The project includes analysis of:
 
 ## Tableau Dashboard
 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/muskan.2903/viz/Titanicanalysis_17912315404920/TitanicSurvivalDashboard?publish=yes)
+### Dashboard Preview
+
+![Titanic Survival Analysis Dashboard](Titanic_Dashboard.png)
 
 A Tableau dashboard was created to visualize the main findings and compare survival patterns across different passenger groups.
 
