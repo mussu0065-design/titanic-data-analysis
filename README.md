@@ -50,6 +50,7 @@ The project includes analysis of:
 - Survival rates also differed according to embarkation location.
 
 ## Tableau Dashboard
+[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/muskan.2903/viz/Titanicanalysis_17912315404920/TitanicSurvivalDashboard?publish=yes)
 
 A Tableau dashboard was created to visualize the main findings and compare survival patterns across different passenger groups.
 
